@@ -1,0 +1,12 @@
+{
+  "configurations": [
+    {
+      "name": "Launch Program",
+      "program": "${workspaceFolder}/projetocv_ex2.js",
+      "request": "launch",
+      "skipFiles": [
+        "<node_internals>/**"
+      ],
+      "type": "node"
+    }]}
+ 

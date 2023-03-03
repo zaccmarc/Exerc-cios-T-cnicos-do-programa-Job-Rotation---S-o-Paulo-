@@ -1,0 +1,27 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Executar arquivo.js",
+      "type": "node",
+      "request": "launch",
+      "program": "${file}",
+      "cwd": "${workspaceFolder}"
+    }
+  ]
+}
+
+
+
+/* {
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "name": "Executar arquivo.js",
+      "type": "node",
+      "request": "launch",
+      "program": "${workspaceFolder}/projetoCV_ex5.js",
+      "cwd": "${workspaceFolder}"
+    },
+  ]
+} */
